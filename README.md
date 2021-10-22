@@ -6,4 +6,4 @@
 <font color=cian size=5 align='center'>**Enrique Mejía Ospino, emejia@uis.edu.co**\
 <font color=cian size=5 align='center'>**Universidad Industrial de Santander**\
   
-  <img src="logo.svg" width="400" height="760" align="right"/>
+  <img src="logo.svg" width="400" height="760" align="center"/>
